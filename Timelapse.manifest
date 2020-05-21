@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"e565955c-47f4-4417-b9dc-6e9708f600cd",
+	"author":	"Bradley Shrader",
+	"description":	{
+		"":	"Easily record timelapse footage as you work from a fixed camera angle"
+	},
+	"version":	"0.0.1",
+	"runOnStartup":	true,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
